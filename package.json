@@ -1,0 +1,19 @@
+{
+  "name": "cet-college-recommendation",
+  "version": "1.0.0",
+  "description": "MHT-CET percentile-based college recommendation web application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.4",
+    "nodemon": "^3.1.7",
+    "dotenv": "^16.4.7"
+  }
+}
