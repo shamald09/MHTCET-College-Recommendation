@@ -149,10 +149,6 @@ The recommendation results depend on the college data available in the database.
 
 - GitHub: [@shamald09](https://github.com/shamald09)
 
-## 📄 License
-
-Choose and add a license before redistributing this project. Until a license is included, assume the repository is subject to the default copyright rules.
-
 ---
 
 ⭐ If you find this project useful, consider starring the repository!
